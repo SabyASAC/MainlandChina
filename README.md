@@ -123,7 +123,7 @@ Some of the items in the menu are listed below :
     
     <p><strong>Reserve</strong> For a table, ask for today's special or just send us a message:</p>
    
- Send your responses <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoQwFi0H8sgnCInftgzc-zrZxUfovlJHZleZOKBfrBiZnDmg/viewform/">here!</a>
+ Send your responses <a href="https://forms.gle/1kMhg7TFfXXP7ret8">here!</a>
 
 <!-- End page content -->
 </div>
